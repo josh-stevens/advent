@@ -1,0 +1,14 @@
+{
+  "name": "advent",
+  "version": "1.0.0",
+  "description": "test suite for advent problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Josh Stevens",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
