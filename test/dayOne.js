@@ -29,7 +29,3 @@ xdescribe('Day One', function() {
   });
 
 });
-
-describe('Day Two', function() {
-
-})
