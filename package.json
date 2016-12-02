@@ -9,6 +9,7 @@
   "author": "Josh Stevens",
   "license": "ISC",
   "devDependencies": {
+    "fs": "0.0.1-security",
     "mocha": "^3.2.0"
   }
 }
